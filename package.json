@@ -1,0 +1,19 @@
+{
+    "name": "@cdavison/bimap",
+    "version": "1.0.0",
+    "description": "A bidirectional map structure.",
+    "main": "src/BiMap.js",
+    "scripts": {
+        "test": "mocha"
+    },
+    "keywords": [
+        "bimap",
+        "structure"
+    ],
+    "author": "C. Davison <connorpdavison@gmail.com>",
+    "license": "ISC",
+    "devDependencies": {
+        "chai": "^4.2.0",
+        "mocha": "^6.1.4"
+    }
+}
