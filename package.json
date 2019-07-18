@@ -1,6 +1,6 @@
 {
     "name": "@cdavison/bimap",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A bidirectional map structure.",
     "main": "src/BiMap.js",
     "scripts": {
