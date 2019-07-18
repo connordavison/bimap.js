@@ -81,7 +81,7 @@ module.exports = class BiMap {
 
     /**
      * @param {K} key
-     * @returns {V}
+     * @returns {(V|undefined)}
      */
     get(key) {
         return this.map.get(key);
